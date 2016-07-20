@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[live the moment]]></title>
   <link href="http://luieswww.github.io/atom.xml" rel="self"/>
   <link href="http://luieswww.github.io/"/>
-  <updated>2016-07-20T13:26:54+08:00</updated>
+  <updated>2016-07-20T20:09:33+08:00</updated>
   <id>http://luieswww.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Rudy]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://luieswww.github.io/blog/2016/07/20/test/"/>
+    <updated>2016-07-20T19:57:51+08:00</updated>
+    <id>http://luieswww.github.io/blog/2016/07/20/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
