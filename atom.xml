@@ -4,7 +4,7 @@
   <title><![CDATA[Rudy's Blog]]></title>
   <link href="http://luieswww.github.io/atom.xml" rel="self"/>
   <link href="http://luieswww.github.io/"/>
-  <updated>2016-07-20T22:01:25+08:00</updated>
+  <updated>2016-07-20T22:46:33+08:00</updated>
   <id>http://luieswww.github.io/</id>
   <author>
     <name><![CDATA[Rudy]]></name>
@@ -19,6 +19,16 @@
     <updated>2016-07-20T21:57:05+08:00</updated>
     <id>http://luieswww.github.io/blog/2016/07/20/modify-20160720</id>
     <content type="html"><![CDATA[<p>这是我的第一个博客，过会来写</p>
+
+<h2>企业移动应用初探</h2>
+
+<h4>1、完成目标</h4>
+
+<pre><code>test
+  test
+  test
+test
+</code></pre>
 ]]></content>
   </entry>
   
