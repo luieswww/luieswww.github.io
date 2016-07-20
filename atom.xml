@@ -4,7 +4,7 @@
   <title><![CDATA[Rudy's Blog]]></title>
   <link href="http://luieswww.github.io/atom.xml" rel="self"/>
   <link href="http://luieswww.github.io/"/>
-  <updated>2016-07-20T21:02:10+08:00</updated>
+  <updated>2016-07-20T22:01:25+08:00</updated>
   <id>http://luieswww.github.io/</id>
   <author>
     <name><![CDATA[Rudy]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[企业移动应用发展初探]]></title>
+    <link href="http://luieswww.github.io/blog/2016/07/20/modify-20160720/"/>
+    <updated>2016-07-20T21:57:05+08:00</updated>
+    <id>http://luieswww.github.io/blog/2016/07/20/modify-20160720</id>
+    <content type="html"><![CDATA[<p>这是我的第一个博客，过会来写</p>
+]]></content>
+  </entry>
   
 </feed>
