@@ -4,7 +4,7 @@
   <title><![CDATA[Rudy's Blog]]></title>
   <link href="http://luieswww.github.io/atom.xml" rel="self"/>
   <link href="http://luieswww.github.io/"/>
-  <updated>2016-08-12T09:21:19+08:00</updated>
+  <updated>2016-08-12T09:22:40+08:00</updated>
   <id>http://luieswww.github.io/</id>
   <author>
     <name><![CDATA[Rudy]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[华为公司的信息化管理工作是怎样的？]]></title>
-    <link href="http://luieswww.github.io/blog/2016/08/12/huawei/"/>
+    <link href="http://luieswww.github.io/blog/huawei.html/"/>
     <updated>2016-08-12T08:50:13+08:00</updated>
-    <id>http://luieswww.github.io/blog/2016/08/12/huawei</id>
+    <id>http://luieswww.github.io/blog/huawei</id>
     <content type="html"><![CDATA[<blockquote><p>本文作者在电力企业从事信息化工作近6年，深知IT系统建设和运维工作的繁琐和不可控性，经常有这样的疑问，“看看别人家是怎么做的呢？”。此次有幸到世界100强华为公司质量与流程IT管理部亲临现场进行调研，颇有收获，现在发挥简书的风格，跟大家一起分享讨论下!*</p></blockquote>
 
 <h3>华为的信息化规模</h3>
@@ -187,9 +187,9 @@
   
   <entry>
     <title type="html"><![CDATA[企业移动应用发展初探]]></title>
-    <link href="http://luieswww.github.io/blog/2016/07/20/modify-20160720/"/>
+    <link href="http://luieswww.github.io/blog/modify-20160720.html/"/>
     <updated>2016-07-20T21:57:05+08:00</updated>
-    <id>http://luieswww.github.io/blog/2016/07/20/modify-20160720</id>
+    <id>http://luieswww.github.io/blog/modify-20160720</id>
     <content type="html"><![CDATA[<p>近年来，移动应用信息化发展迅速，移动终端越来越被大众所使用和接受，企业也开始布局移动应用，企业移动信息化采用易于携带的终端设备，对信息进行实施采集和处理，改变了以往终端必须固定线缆才能采集信息的限制，方便了信息的采集和传递，还可以非常高效和安全地对信息流进行管理。</p>
 
 <p>企业移动信息化可以将信息的采集、移动和管理这三方面进行有效的结合。但是在移动信息化真正在企业得到应用和发展之前，必须要做好移动信息化规划，这一点跟传统的企业信息化建设其实没有什么两样，而传统的信息化规划理论包括<a href="http://baike.baidu.com/subview/3246633/3246633.htm">IBM业务系统规划法</a>、<a href="http://baike.baidu.com/view/1329916.htm">关键成功因素法</a>、<a href="http://baike.baidu.com/view/13985952.htm">信息工程法</a>。</p>
